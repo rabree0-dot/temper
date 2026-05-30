@@ -1,0 +1,25 @@
+"use strict";
+/*
+ * ATTENTION: An "eval-source-map" devtool has been used.
+ * This devtool is neither made for production nor for readable output files.
+ * It uses "eval()" calls to create a separate source file with attached SourceMaps in the browser devtools.
+ * If you are trying to read the output file, select a different devtool (https://webpack.js.org/configuration/devtool/)
+ * or disable the default devtool with "devtool: false".
+ * If you are looking for production-ready output files, see mode: "production" (https://webpack.js.org/configuration/mode/).
+ */
+exports.id = "_rsc_src_messages_ar_json";
+exports.ids = ["_rsc_src_messages_ar_json"];
+exports.modules = {
+
+/***/ "(rsc)/./src/messages/ar.json":
+/*!******************************!*\
+  !*** ./src/messages/ar.json ***!
+  \******************************/
+/***/ ((module) => {
+
+module.exports = /*#__PURE__*/JSON.parse('{"nav":{"home":"الرئيسية","shop":"المتجر","categories":"الأقسام","offers":"العروض","featured":"المميزة","about":"من نحن","contact":"اتصل بنا","wishlist":"المفضلة","search":"بحث","login":"تسجيل الدخول","register":"إنشاء حساب","admin":"لوحة التحكم","cart":"السلة","logout":"تسجيل الخروج","language":"English"},"home":{"hero_title":"أثاث يجمع بين الأناقة والراحة","hero_subtitle":"اكتشف مجموعتنا الفاخرة من الأثاث العصري والتقليدي المصمم خصيصاً لمنزلك","hero_cta":"تسوق الآن","featured_categories":"الأقسام المميزة","best_sellers":"الأكثر مبيعاً","special_offers":"عروض خاصة","why_us":"لماذا تختار تمبر؟","quality":"جودة عالية","quality_desc":"نقدم أفضل أنواع الخشب والمواد لضمان متانة ورقي أثاثك","delivery":"توصيل مجاني","delivery_desc":"نوصل طلباتك لكل ولايات السودان مع خدمة التركيب عند الطلب","support":"دعم على مدار الساعة","support_desc":"فريقنا جاهز لمساعدتك في أي وقت عبر الهاتف أو الواتساب"},"shop":{"title":"تسوق الأثاث","filter":"تصفية","sort":"ترتيب","price_range":"نطاق السعر","category":"القسم","all":"الكل","no_results":"لا توجد نتائج","results_count":"{count} نتيجة","sort_newest":"الأحدث","sort_price_asc":"السعر: من الأقل للأعلى","sort_price_desc":"السعر: من الأعلى للأقل","sort_popular":"الأكثر شهرة","add_to_wishlist":"أضف للمفضلة","remove_from_wishlist":"إزالة من المفضلة","add_to_cart":"أضف للسلة","view_details":"عرض التفاصيل"},"product":{"description":"الوصف","reviews":"التقييمات","related":"منتجات مشابهة","sold_by":"البائع","in_stock":"متوفر","out_of_stock":"غير متوفر","quantity":"الكمية","add_to_cart":"أضف للسلة","share":"مشاركة","category":"القسم","price":"السعر","compare_price":"السعر قبل الخصم"},"auth":{"login_title":"تسجيل الدخول","register_title":"إنشاء حساب","email":"البريد الإلكتروني","password":"كلمة المرور","name":"الاسم","phone":"رقم الهاتف","confirm_password":"تأكيد كلمة المرور","login_btn":"دخول","register_btn":"إنشاء حساب","no_account":"ليس لديك حساب؟","has_account":"لديك حساب بالفعل؟","create_one":"أنشئ واحداً","login_here":"سجل دخولك"},"contact":{"title":"تواصل معنا","name":"الاسم","email":"البريد الإلكتروني","phone":"رقم الهاتف","subject":"الموضوع","message":"الرسالة","send":"إرسال","success":"تم إرسال رسالتك بنجاح","address":"الخرطوم، السودان","working_hours":"السبت - الخميس، ٩ صباحاً - ٩ مساءً"},"about":{"title":"من نحن","subtitle":"نحن تمبر — وجهتك الأولى للأثاث الفاخر في السودان","story":"نؤمن في تمبر بأن الأثاث ليس مجرد قطع خشبية، بل هو فن يعكس شخصيتك ويصنع ذكرياتك. نقدم تشكيلة واسعة من الأثاث العصري والكلاسيكي بأعلى معايير الجودة","mission":"مهمتنا هي توفير أثاث راقي بأسعار تنافسية مع خدمة توصيل موثوقة لجميع أنحاء السودان"},"footer":{"rights":"جميع الحقوق محفوظة","quick_links":"روابط سريعة","contact_us":"اتصل بنا","follow_us":"تابعنا","newsletter":"النشرة البريدية","newsletter_placeholder":"أدخل بريدك الإلكتروني","subscribe":"اشترك"},"admin":{"dashboard":"لوحة المعلومات","products":"المنتجات","categories":"الأقسام","orders":"الطلبات","users":"المستخدمون","messages":"الرسائل","coupons":"الكوبونات","sales_stats":"إحصائيات المبيعات","total_orders":"إجمالي الطلبات","total_revenue":"إجمالي الإيرادات","total_users":"إجمالي المستخدمين","total_products":"إجمالي المنتجات","add_product":"إضافة منتج","edit_product":"تعديل منتج","delete_product":"حذف منتج","add_category":"إضافة قسم","edit_category":"تعديل قسم","delete_category":"حذف قسم","save":"حفظ","cancel":"إلغاء","actions":"الإجراءات","status":"الحالة","back_to_store":"العودة للمتجر","order_id":"رقم الطلب","customer":"العميل","total":"الإجمالي","date":"التاريخ","view":"عرض","name":"الاسم","email":"البريد","role":"الدور","joined":"تاريخ التسجيل","slug":"الرابط","price":"السعر","stock":"المخزون","category":"القسم","code":"الكود","discount":"الخصم","type":"النوع","used":"المستخدم","max_uses":"الحد الأقصى","expires":"ينتهي","add_coupon":"إضافة كوبون"},"common":{"loading":"جارٍ التحميل...","error":"حدث خطأ","success":"تم بنجاح","confirm_delete":"هل أنت متأكد من الحذف؟","yes":"نعم","no":"لا","search":"بحث...","no_results":"لا توجد نتائج","view_all":"عرض الكل","read_more":"اقرأ المزيد","show_less":"عرض أقل","free":"مجاني","sold_out":"نفد من المخزون","offer":"عرض","sar":"ج.س"}}');
+
+/***/ })
+
+};
+;
